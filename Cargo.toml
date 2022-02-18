@@ -1,0 +1,13 @@
+[package]
+name = "min_hrt"
+version = "0.1.0"
+authors = ["Cem Geçgel <gecgelcem@outlook.com>"]
+edition = "2021"
+description = "Main loop with separate tick and frame rates."
+readme = "README.md"
+repository = "https://github.com/Waistax/min_hrt"
+license = "MIT OR Apache-2.0"
+keywords = ["main-loop"]
+categories = ["game-development"]
+
+[dependencies]
